@@ -1,10 +1,10 @@
-#MEANAuthApp
+# MEANAuthApp
 
-The full code will be here when it is done.
+## The full code will be here when it is done.
 
-This is the code from my Mean-authentication application
+### This is the code from my Mean-authentication application
 
-#Usage
+# Usage
 
 - Install Dependencies
 npm install
