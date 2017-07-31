@@ -1,7 +1,5 @@
 # MEAN-Auth-App
 
-<<<<<<< HEAD
-
 
 ## The full code will be here when it is done.
 
@@ -18,5 +16,3 @@ npm start OR nodemon
 - Build angular src
 go to project/app ROOT dir, cd into "angular-src"
 execute "ng-build" or "ng serve"
-
->>>>>>>
