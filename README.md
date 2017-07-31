@@ -8,11 +8,11 @@
 # Usage
 
 - Install Dependencies
-npm install
+`npm install`
 
 - Run Server
-npm start OR nodemon
+`npm start OR nodemon`
 
 - Build angular src
 go to project/app ROOT dir, cd into "angular-src"
-execute "ng-build" or "ng serve"
+execute `ng-build` or `ng serve`
