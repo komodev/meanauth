@@ -1,4 +1,4 @@
-# MEAN Stack Front To Back Authentication app.
+# **MEAN Stack** - Front To Back Authentication app.
 
 ## MomgoDB, ExpressJS, AngularJS, NodeJS
 
