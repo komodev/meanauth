@@ -1,4 +1,4 @@
-# MEAN-Auth-App
+# MomgoDB-ExpressJS-AngularJS-NodeJS Auth-App
 
 
 ## The full code will be here when it is done.
@@ -11,8 +11,12 @@
 `npm install`
 
 - Run Server
-`npm start OR nodemon`
+`npm start`
 
-- Build angular src
-go to project/app ROOT dir, cd into "angular-src"
-execute `ng-build` or `ng serve`
+- OR with Watcher
+`nodemon`
+
+- Build Angular src
+go to project/app ROOT dir, cd into "angular-src" dir and execute `ng-build` to build src. files.
+
+- or `ng serve` (also builds src files) to start server and serve application on `localhost:4200`.
