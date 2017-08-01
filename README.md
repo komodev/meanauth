@@ -5,7 +5,7 @@
 
 ### This is the code from my Mean-authentication application
 
-# Usage
+# Usage:
 
 - Install Dependencies
 `npm install`
