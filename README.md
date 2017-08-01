@@ -4,7 +4,7 @@
 
 ## MEAN Stack Front To Back Authentication application
 
-### The full code will be here when I'm done.
+### The full code will be here when It's finished.
 
 # Usage:
 
