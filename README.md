@@ -17,6 +17,6 @@
 `nodemon`
 
 - Build Angular src
-go to project/app *ROOT dir*, *CD* into **angular-src** dir and execute `ng-build` to build source. files.
+go to project/app *ROOT dir*, *CD* into *angular-src* dir and execute `ng-build` to build source. files.
 
 - or `ng serve` (also builds src. files) to start server and serve the application on: `localhost:4200`
