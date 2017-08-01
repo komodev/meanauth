@@ -1,9 +1,10 @@
-# MomgoDB-ExpressJS-AngularJS-NodeJS Auth-App
+# MomgoDB, ExpressJS, AngularJS, NodeJS
+# aka. *MEAN Stack*
 
 
-## The full code will be here when it is done.
+## MEAN Stack Front To Back Authentication application
 
-### This is the code from my Mean-authentication application
+### The full code will be here when I'm done.
 
 # Usage:
 
